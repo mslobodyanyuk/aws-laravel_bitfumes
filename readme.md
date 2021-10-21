@@ -72,7 +72,7 @@ Laravel 5.4 Full Beginner Playlist -
 
 [(3:15)]( https://youtu.be/nMDIVQsESBY?t=195 ) `AWS Management Console-> S3-> Create Bucket`.
 
-	`bitfumes-laravel`
+`bitfumes-laravel`
 
 ![screenshot of sample]( https://github.com/mslobodyanyuk/aws-laravel_bitfumes/blob/main/public/images/aws/1.png )
 
